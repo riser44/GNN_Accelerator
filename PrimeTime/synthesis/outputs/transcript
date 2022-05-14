@@ -1,0 +1,67 @@
+# //  Questa Sim
+# //  Version 2021.2_2 linux Jun 19 2021
+# //
+# //  Copyright 1991-2021 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# vsim -lib ./LibTop tb_top -t ps -do "./run.do" -sv_seed 10 
+# Start time: 14:52:16 on Mar 30,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading sv_std.std
+# Loading work.tb_top(fast)
+# Loading work.top(fast)
+# Loading work.XOR2D1BWP(fast)
+# Loading work.OR4D1BWP(fast)
+# Loading work.XNR2D1BWP(fast)
+# Loading work.DFQD1BWP(fast)
+# Loading work.DFKCNQD1BWP(fast)
+# Loading work.FA1D0BWP(fast)
+# Loading work.XOR3D1BWP(fast)
+# Loading work.XOR3D2BWP(fast)
+# Loading work.FA1D1BWP(fast)
+# Loading work.CKBD1BWP(fast)
+# Loading work.CKBD0BWP(fast)
+# Loading work.INVD1BWP(fast)
+# Loading work.DEL075D1BWP(fast)
+# Loading work.DEL175D1BWP(fast)
+# Loading work.CKND0BWP(fast)
+# Loading work.BUFFD6BWP(fast)
+# Loading work.ND2D0BWP(fast)
+# Loading work.CKND2D0BWP(fast)
+# Loading work.DEL025D1BWP(fast)
+# Loading work.CKND2BWP(fast)
+# Loading work.BUFFD3BWP(fast)
+# Loading work.NR2D1BWP(fast)
+# Loading work.INR2D1BWP(fast)
+# Loading work.ND2D1BWP(fast)
+# Loading work.INR3D0BWP(fast)
+# Loading work.ND3D1BWP(fast)
+# Loading work.OAI21D1BWP(fast)
+# Loading work.AOI21D1BWP(fast)
+# Loading work.AOI211D2BWP(fast)
+# Loading work.NR4D1BWP(fast)
+# Loading work.OR3XD1BWP(fast)
+# Loading work.AN2XD1BWP(fast)
+# Loading work.AN3XD1BWP(fast)
+# Loading work.NR3D0BWP(fast)
+# Loading work.XOR2D2BWP(fast)
+# Loading work.CKND1BWP(fast)
+# Loading work.IOA21D1BWP(fast)
+# Loading work.BUFFD2BWP(fast)
+# Loading work.IND3D1BWP(fast)
+# Loading work.IND2D1BWP(fast)
+# do ./run.do
+# ** Note: $finish    : /filespace/l/lraja/ECE755/MS3_lam/tb_top.sv(113)
+#    Time: 100 ns  Iteration: 0  Instance: /tb_top
+# 1
+# Break in Module tb_top at /filespace/l/lraja/ECE755/MS3_lam/tb_top.sv line 113
+# End time: 15:47:49 on Mar 30,2022, Elapsed time: 0:55:33
+# Errors: 0, Warnings: 0

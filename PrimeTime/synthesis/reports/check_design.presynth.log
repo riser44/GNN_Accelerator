@@ -1,0 +1,54 @@
+ 
+****************************************
+check_design summary:
+Version:     S-2021.06
+Date:        Wed Mar 30 14:41:01 2022
+****************************************
+
+                   Name                                            Total
+--------------------------------------------------------------------------------
+Inputs/Outputs                                                     40
+    Unconnected ports (LINT-28)                                    40
+--------------------------------------------------------------------------------
+
+Warning: In design 'dnn', port 'w48[4]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w48[3]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w48[2]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w48[1]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w48[0]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w58[4]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w58[3]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w58[2]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w58[1]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w58[0]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w49[4]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w49[3]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w49[2]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w49[1]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w49[0]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w59[4]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w59[3]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w59[2]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w59[1]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w59[0]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w68[4]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w68[3]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w68[2]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w68[1]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w68[0]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w69[4]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w69[3]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w69[2]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w69[1]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w69[0]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w78[4]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w78[3]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w78[2]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w78[1]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w78[0]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w79[4]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w79[3]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w79[2]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w79[1]' is not connected to any nets. (LINT-28)
+Warning: In design 'dnn', port 'w79[0]' is not connected to any nets. (LINT-28)
+1

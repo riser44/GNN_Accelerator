@@ -1,0 +1,100 @@
+Loading db file '/cae/apps/data/synopsys-2021/syn/S-2021.06/libraries/syn/gtech.db'
+Loading db file '/cae/apps/data/synopsys-2021/syn/S-2021.06/libraries/syn/standard.sldb'
+  Loading link library 'tcbn45gsbwptc'
+  Loading link library 'tpfn45gsgv18tc'
+  Loading link library 'gtech'
+Running PRESTO HDLC
+
+Inferred memory devices in process
+	in routine top line 56 in file
+		'/filespace/l/lraja/ECE755/MS3_lam/top.sv'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|   x3_node3_a_reg    | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stg_1_rdy_reg    | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|   x0_node0_a_reg    | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|   x1_node0_a_reg    | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|   x2_node0_a_reg    | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|   x3_node0_a_reg    | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|   x0_node1_a_reg    | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|   x1_node1_a_reg    | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|   x0_node2_a_reg    | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|   x1_node2_a_reg    | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|   x2_node2_a_reg    | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|   x3_node2_a_reg    | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|   x0_node3_a_reg    | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|   x1_node3_a_reg    | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+|   x2_node3_a_reg    | Flip-flop |   6   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+
+Inferred memory devices in process
+	in routine top line 181 in file
+		'/filespace/l/lraja/ECE755/MS3_lam/top.sv'.
+=================================================================================
+|     Register Name     |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+=================================================================================
+|    out1_node0_reg     | Flip-flop |  21   |  Y  | N  | N  | N  | N  | N  | N  |
+| out10_ready_node0_reg | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+| out11_ready_node0_reg | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|    out0_node0_reg     | Flip-flop |  21   |  Y  | N  | N  | N  | N  | N  | N  |
+=================================================================================
+
+Inferred memory devices in process
+	in routine top line 199 in file
+		'/filespace/l/lraja/ECE755/MS3_lam/top.sv'.
+=================================================================================
+|     Register Name     |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+=================================================================================
+|    out1_node1_reg     | Flip-flop |  21   |  Y  | N  | N  | N  | N  | N  | N  |
+| out10_ready_node1_reg | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+| out11_ready_node1_reg | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|    out0_node1_reg     | Flip-flop |  21   |  Y  | N  | N  | N  | N  | N  | N  |
+=================================================================================
+
+Inferred memory devices in process
+	in routine top line 217 in file
+		'/filespace/l/lraja/ECE755/MS3_lam/top.sv'.
+=================================================================================
+|     Register Name     |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+=================================================================================
+|    out1_node2_reg     | Flip-flop |  21   |  Y  | N  | N  | N  | N  | N  | N  |
+| out10_ready_node2_reg | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+| out11_ready_node2_reg | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|    out0_node2_reg     | Flip-flop |  21   |  Y  | N  | N  | N  | N  | N  | N  |
+=================================================================================
+
+Inferred memory devices in process
+	in routine top line 236 in file
+		'/filespace/l/lraja/ECE755/MS3_lam/top.sv'.
+=================================================================================
+|     Register Name     |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+=================================================================================
+|    out1_node3_reg     | Flip-flop |  21   |  Y  | N  | N  | N  | N  | N  | N  |
+| out10_ready_node3_reg | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+| out11_ready_node3_reg | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|    out0_node3_reg     | Flip-flop |  21   |  Y  | N  | N  | N  | N  | N  | N  |
+=================================================================================
+Presto compilation completed successfully. (top)
+Elaborated 1 design.
+Current design is now 'top'.
+Information: Building the design 'dnn'. (HDL-193)
+Warning:  /filespace/l/lraja/ECE755/MS3_lam/dnn.sv:22: signed to unsigned conversion occurs. (VER-318)
+Warning:  /filespace/l/lraja/ECE755/MS3_lam/dnn.sv:23: signed to unsigned conversion occurs. (VER-318)
+Warning:  /filespace/l/lraja/ECE755/MS3_lam/dnn.sv:24: signed to unsigned conversion occurs. (VER-318)
+Warning:  /filespace/l/lraja/ECE755/MS3_lam/dnn.sv:25: signed to unsigned conversion occurs. (VER-318)
+
+Inferred memory devices in process
+	in routine dnn line 28 in file
+		'/filespace/l/lraja/ECE755/MS3_lam/dnn.sv'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|       y3_reg        | Flip-flop |  21   |  Y  | N  | N  | N  | N  | N  | N  |
+|    stg_2_rdy_reg    | Flip-flop |   1   |  N  | N  | N  | N  | N  | N  | N  |
+|       y0_reg        | Flip-flop |  21   |  Y  | N  | N  | N  | N  | N  | N  |
+|       y1_reg        | Flip-flop |  21   |  Y  | N  | N  | N  | N  | N  | N  |
+|       y2_reg        | Flip-flop |  21   |  Y  | N  | N  | N  | N  | N  | N  |
+===============================================================================
+Presto compilation completed successfully. (dnn)
+1

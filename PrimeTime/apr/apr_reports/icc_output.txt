@@ -1,0 +1,10 @@
+Error: could not open script file "/filespace/n/nmohapatra/ece755/MS4/apr_scripts/reports/./apr_script.tcl" (CMD-015)
+icc_shell> quit
+
+Memory usage for this session 99 Mbytes.
+Memory usage for this session including child processes 99 Mbytes.
+CPU usage for this session 2 seconds ( 0.00 hours ).
+Elapsed time for this session 9 seconds ( 0.00 hours ).
+
+Thank you...
+
